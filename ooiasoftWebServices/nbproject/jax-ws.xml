@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jax-ws xmlns="http://www.netbeans.org/ns/jax-ws/1">
+  <services>
+    <service name="CicloWS">
+      <implementation-class>pe.edu.pucp.ooiasoft.services.CicloWS</implementation-class>
+    </service>
+    <service name="PersonaWS">
+      <implementation-class>pe.edu.pucp.ooiasoft.services.PersonaWS</implementation-class>
+    </service>
+    <service name="HorarioCicloWS">
+      <implementation-class>pe.edu.pucp.ooiasoft.services.HorarioCicloWS</implementation-class>
+    </service>
+    <service name="CursoWS">
+      <implementation-class>pe.edu.pucp.ooiasoft.services.CursoWS</implementation-class>
+    </service>
+    <service name="EspecialidadWS">
+      <implementation-class>pe.edu.pucp.ooiasoft.services.EspecialidadWS</implementation-class>
+    </service>
+    <service name="CitaWS">
+      <implementation-class>pe.edu.pucp.ooiasoft.services.CitaWS</implementation-class>
+    </service>
+    <service name="EventoCicloWS">
+      <implementation-class>pe.edu.pucp.ooiasoft.services.EventoCicloWS</implementation-class>
+    </service>
+    <service name="InformacionTemaCicloWS">
+      <implementation-class>pe.edu.pucp.ooiasoft.services.InformacionTemaCicloWS</implementation-class>
+    </service>
+    <service name="ReporteWS">
+      <implementation-class>pe.edu.pucp.ooiasoft.services.ReporteWS</implementation-class>
+    </service>
+  </services>
+  <clients/>
+</jax-ws>
